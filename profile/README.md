@@ -6,6 +6,10 @@
 
 - Todo[GTK] :  https://github.com/DistroTEAM/todo
 
+-  Weather-App [PYQT] : A software under Linux to display the weather https://github.com/DistroTEAM/Weather-App & JupiterVersion https://github.com/DistroTEAM/Weather-App/blob/master/cli/Weather%20APP.ipynb
+
+- Find-IP [CLI] : You can use this program to get the IP of a website https://github.com/DistroTEAM/Find-IP
+
 
 #### Projects that will be developed soon
 
